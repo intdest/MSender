@@ -13,4 +13,4 @@ MSENDER v1.0.9-ERC20 Token Airdrop Multi Sender.Packer your multi transfer in on
 * customize js\config.js file for user fee, High or low is up to you.<br>
 * Send addresses once: 1-500<br>
 
-<img src="https://github.com/AlgoCryptoDapp/Bee-Sender/blob/main/screen.png" alt="MSENDER v1.0.9">
+<img src="https://github.com/intdest/MSender/blob/main/img/preview.png" alt="MSENDER v1.0.9">
